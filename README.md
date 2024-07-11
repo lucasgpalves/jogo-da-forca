@@ -11,3 +11,9 @@ O jogo da forca é um clássico jogo de adivinhação em que o jogador tenta des
 5. **Final do jogo:** O jogo continua até que o jogador adivinhe a palavra correta ou seu personagem da forca seja completado.
 
 ***
+
+## Executando o Jogo
+Para executar o jogo, basta abrir o arquivo forca.py em um ambiente Python compatível com a versão 3.x.
+```bash
+python main.py
+```
